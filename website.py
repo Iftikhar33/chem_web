@@ -156,7 +156,7 @@ with st.container():
    st.write("lecturer chemistry at punjab group of college")
    st.write("CONTACT:03007932606")
 st.subheader("please provide your infromation")
-name=st.text_input("please enter your Name")
+name=st.text_input("please enter your  full Name")
 fname=st.text_input("please enter your Father Name")
 adr=st.text_input("please enter your Adress")
 cno=st.text_input("please enter your contact no")
